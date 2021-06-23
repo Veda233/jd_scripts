@@ -5,8 +5,6 @@
  完成度 1.01%
 
 
- 默认500
- export JD_JOY_REWARD_NAME = 500
  */
 
  const $ = new Env("宠汪汪兑换二代目")
